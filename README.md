@@ -56,4 +56,4 @@ Correct: 4088
 Incorrect: 844
 True Positive Rate: 41.02%
 True Negative Rate: 90.55%
-```# Shopping-Prediction-AI-Using-Machine-Learning
+```
