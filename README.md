@@ -50,7 +50,7 @@ The model will load the dataset, train on a portion of it, and then make predict
 
 ## Sample Output
 
-```python
+```bash
 python shopping.py shopping.csv
 Correct: 4088
 Incorrect: 844
