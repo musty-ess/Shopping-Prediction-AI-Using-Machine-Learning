@@ -20,7 +20,6 @@ Based on this data, the classifier predicts whether a user will complete a purch
 
 - `shopping.py`: Main script that loads data, trains the model, and evaluates predictions.
 - `shopping.csv`: Dataset containing session data of around 12,000 online users.
-- `README.md`: This file.
 
 ## Key Functions Implemented
 
