@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an AI model designed to predict whether customers on an online shopping website will complete a purchase. The goal is to use machine learning, specifically a k-nearest neighbors (KNN) classifier, to analyze user behavior and predict their purchasing intent. The model could be used by online shopping websites to display targeted content, such as offering discounts to users who are less likely to make a purchase.
+This project is an AI model designed to predict whether customers on an online shopping website will complete a purchase. It uses machine learning, specifically a k-nearest neighbors (KNN) classifier, to analyze user behavior and predict their purchasing intent. The model could be used by online shopping websites to display targeted content, such as offering discounts to users who are less likely to make a purchase.
 
 ## Features
 
